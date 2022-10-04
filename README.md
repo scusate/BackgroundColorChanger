@@ -3,4 +3,4 @@
 - A simple web project that allows the page background color to change with a button
 
 
-[BackgroundColorChanger Preview](/BackgroundColorChanger.gif)
+![BackgroundColorChanger Preview](/BackgroundColorChanger.gif)
